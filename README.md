@@ -1,3 +1,4 @@
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OS-Mentors/contributors)
 # Open source Mentorship Program
 
 Welcome to the Open source mentorship program.
